@@ -1,0 +1,3 @@
+001,Morty,none
+002,Scruffy Morty,Rock
+003,Unkempt Morty,Rock
