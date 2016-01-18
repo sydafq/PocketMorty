@@ -1,3 +1,82 @@
 001,Morty,none
 002,Scruffy Morty,Rock
 003,Unkempt Morty,Rock
+004,Hobo Morty,Rock
+005,Old Morty,Paper
+006,Geriatric Morty,Paper
+007,Ancient Morty,Paper
+008,Rabbit Morty,Scissors
+009,Evil Rabbit Morty,Scissors
+010,No Eye Morty,Paper
+011,One Eye Morty,Paper
+012,Three Eye Morty,Scissors
+013,Test X1 Morty,Paper
+014,Test X46 Morty,Paper
+015,Test x72 Morty,Paper
+016,Self Defense Morty,Rock
+017,Karate Morty,Rock
+018,No Mercy Morty,Rock
+019,Mustache Morty,Scissors
+020,Beard Morty,Scissors
+021,Hipster Morty,Scissors
+022,Ad Space Morty,Paper
+023,Jerry's Game Morty,Paper
+024,Pocket Mortys Morty,Paper
+025,Blue Shirt Morty,Paper
+026,Red Shirt Morty,Paper
+027,Orange Shirt Morty,Paper
+028,Green Shirt Morty,Paper
+029,Purple Shirt Morty,Paper
+030,Rainbow Shirt Morty,Paper
+031,Exo-Alpha Morty,Scissors
+032,Exo-Omega Morty,Scissors
+033,Exo-Prime Morty,Scissors
+034,Spoon Morty,Rock
+035,Fork Morty,Rock
+036,Spork Morty,Rock
+037,Peace Morty,Paper
+038,Hippie Morty,Paper
+039,Off the Grid Morty,Paper
+040,Big Head Morty,Rock
+041,Giant Head Morty,Rock
+042,Colossal Head Morty,Rock
+043,Spooky Morty,Paper
+044,Ghostly Morty,Paper
+045,Phantom Morty,Paper
+046,Double Morty,Scissors
+047,Triple Morty,Scissors
+048,Multi Morty,Scissors
+049,Greaser Morty,Rock
+050,Biker Morty,Rock
+051,Stray Cat Morty,Scissors
+052,Two Cat Morty,Scissors
+053,Crazy Cat Morty,Scissors
+054,Buff Morty,Rock
+055,Wrestler Morty,Rock
+056,Veiny Morty,Scissors
+057,No Skin Morty,Scissors
+058,Skeleton Morty,Rock
+059,Magic Morty,Rock
+060,Mystic Morty,Rock
+061,Wizard Morty,Rock
+062,Telepathic Morty,Scissors
+063,Telekinetic Morty,Scissors
+064,Psychokinetic Morty,Scissors
+065,Swimmer Morty,Rock
+066,Mermaid Morty,Rock
+067,Reverse Mermaid Morty,Rock
+068,Business Morty,Paper
+069,Gaseous Morty,Rock
+070,Sausage Morty,Scissors
+071,Shadow Morty,Scissors
+072,Aqua Morty,Paper
+073,Cyclops Morty,Scissors
+074,Mini Morty,Rock
+075,Cowboy Morty,Paper
+076,Robot Morty,Scissors
+077,Hammerhead Morty,Rock
+078,Guard Morty,Scissors
+079,Cronenberg Morty,none
+080,Mascot Morty,Paper
+081,Egg Morty,Rock
+082,One True Morty,Rock

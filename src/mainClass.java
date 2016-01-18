@@ -5,12 +5,8 @@ public class mainClass {
 
 		dataMorty trial = new dataMorty();
 		
-		try {
-			trial.readtheFile();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		trial.inputData();
+
 		
 	}	
 	
